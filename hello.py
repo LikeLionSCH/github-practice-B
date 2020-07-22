@@ -6,3 +6,4 @@ print("채은 번호 끝")
 
 print('pull 해서 다시한번 commit 합니다.--> 네!!')
 print('다음 사람')
+print("안녕")
