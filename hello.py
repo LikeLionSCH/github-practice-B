@@ -12,4 +12,5 @@ print('나야나 ')
 while(True) :
     print("hmin")
     break
-
+if i>0:
+    print('hmin good!!')
