@@ -8,3 +8,8 @@ print('pull 해서 다시한번 commit 합니다.--> 네!!')
 print('다음 사람')
 print("안녕")
 print('나야나 ')
+
+while(True) :
+    print("hmin")
+    break
+
