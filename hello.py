@@ -12,4 +12,3 @@ print('나야나 ')
 while(True) :
     print("hmin")
     break
-
